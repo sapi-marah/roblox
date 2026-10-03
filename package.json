@@ -1,0 +1,13 @@
+{
+  "name" : "Roblox Web Runner",
+  "version" :  "1.0",
+  "dependencies" : {
+    "express" : "*",
+    "puppeteer-extra" : "*",
+    "puppeteer-extra-plugin-stealth" : "*"
+  },
+  "scripts" : {
+    "start" : "node index.js"
+  },
+  "author" : "Ian C. Vu"
+}
